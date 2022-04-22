@@ -1,0 +1,2 @@
+# Online-Book-Store-Application
+The Project was aimed to create a graphical user interface application of a Online Book Store Application using java. The user will be given different type of Genres of Books and Price range of the books to choose. Application will show the Books according to the selected genre and price range, and the user has to select a Book from it. User will get the price of the Book at the end. Technologies: Eclipse, Java, Java GUI, SWING (java), JFrame.
